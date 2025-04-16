@@ -10,5 +10,5 @@
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=SunilChavanIKF&theme=tokyonight&hide_border=true&background=00000000"/>
+  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=SunilChavanIKF&theme=blue-green&hide_border=true&background=00000000"/>
 </p>
