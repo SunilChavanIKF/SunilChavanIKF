@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  💻 Full-Stack Developer | 🌐 Tech Enthusiast | 🚀 Open Source Contributor
+  💻 Full-Stack Developer | 🌐 Tech Enthusiast
 </p>
 
 ---
@@ -21,33 +21,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SunilChavanIKF&show_icons=true&theme=gruvbox" alt="Stats" />
 </p>
 
-### 📚 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilChavanIKF&layout=compact&theme=gruvbox" alt="Top Languages" />
-</p>
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SunilChavanIKF&theme=monokai&column=7" alt="Trophies" />
 </p>
-
----
-
-## 🧠 Language Stats (Pie Chart)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilChavanIKF&layout=pie&theme=tokyonight" alt="Language Pie Chart" />
-</p>
-
----
-
-## 📅 GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://github.com/SunilChavanIKF/SunilChavanIKF/raw/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
-
-_(Snake graph shows your contribution path eating across your profile!)_
 
 ---
 
@@ -70,23 +47,7 @@ _(Snake graph shows your contribution path eating across your profile!)_
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,express,html,css,tailwind,python,django,mysql,mongodb,git,github,vscode" />
-</p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,express,html,css,tailwind,python,django,mysql,mongodb,git,github,vscode,jquery,angular,visualstudio" />
+  
 
----
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SunilChavanIKF&style=flat-square&color=0e75b6" alt="Visitor Counter" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
